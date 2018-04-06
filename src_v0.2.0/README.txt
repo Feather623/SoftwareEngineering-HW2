@@ -1,0 +1,1 @@
+1目前架構完成，主要剩下GradeSystems的class需要完成，其他細節再依spec調整即可
